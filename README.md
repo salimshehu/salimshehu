@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salimshehu
+- 👋 Hi, I’m @Ahmad Salim Shehu
 - 👀 I’m interested in becoming a developer
 - 🌱 I’m currently learning data science, AI and Machine Learning
 - 💞️ I’m looking to collaborate on all areas
